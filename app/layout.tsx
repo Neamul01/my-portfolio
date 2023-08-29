@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import { Inter, Poppins } from "next/font/google";
 
 export const metadata: Metadata = {
-  title: "Neamul Haque",
+  title: "Neamul Haque | Portfolio",
   description: "Neamul Haque's personal portfolio",
 };
 const popins = Poppins({
