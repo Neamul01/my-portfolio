@@ -30,6 +30,9 @@ const config: Config = withMT({
       maxWidth: {
         layout: "1140px",
       },
+      fontFamily: {
+        poppins: ["var(--font-poppins)"],
+      },
     },
   },
   plugins: [],
